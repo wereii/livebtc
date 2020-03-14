@@ -1,0 +1,30 @@
+.price-row {
+    width: 20%;
+    padding: 2em;
+}
+.price-row .exchange {
+    font-family: monospace;
+    font-size: smaller;
+    font-weight: 1000;
+    color: darkgray;
+}
+
+.price-row .price {
+    font-size: 22px;
+    font-family: Droid Sans Mono, monospace;
+    font-weight: 200;
+}
+
+.price-row .price.up {
+    color: greenyellow;
+}
+
+.price-row .price.down {
+    color: red;
+}
+
+.price-row .ticker {
+    font-size: small;
+    font-family: monospace;
+    color: darkgray;
+}
