@@ -9,6 +9,10 @@ This is my little tool for getting nicely formatted, real-time last price inform
 
 Get real-time information of a Bitcoin's last price directly from various exchanges. This little web app connects directly to the live trading feed of each exchange thru it's websocket.
 
+Currently you can see this app in action (it's pretty simple as it's completly static) on this Gitpage's URL
+
+[https://wereii.github.io/livebtc/](https://wereii.github.io/livebtc/)
+
 ### Available Scripts
 
 In the project directory, you can run:
