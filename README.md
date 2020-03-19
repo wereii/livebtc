@@ -1,10 +1,11 @@
 # Notice
 
-This is my little tool for getting real-time last price information from various exchanges **and** it's also my React JS playground - not a full fledged app/solution.
+This is my little tool for getting nicely formatted, real-time last price information from various exchanges 
+**and it's also mainly my React JS playground - not a full fledged app/solution.**
 
 ## Livebtc
 
-Get real-time information of a Bitcoin's last price directly from various exchanges. This little web app connects directly to the live trading feed of the exchange thru it's websocket.
+Get real-time information of a Bitcoin's last price directly from various exchanges. This little web app connects directly to the live trading feed of each exchange thru it's websocket.
 
 ### Available Scripts
 
