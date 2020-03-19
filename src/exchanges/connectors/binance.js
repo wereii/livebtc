@@ -39,4 +39,4 @@ class Binance extends BaseExchange {
 
 }
 
-export default new Binance();
+export default Binance;

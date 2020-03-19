@@ -29,4 +29,4 @@ class Bitfinex extends BaseExchange {
 
 }
 
-export default new Bitfinex();
+export default Bitfinex;

@@ -22,4 +22,4 @@ class Bitmex extends BaseExchange {
 
 }
 
-export default new Bitmex();
+export default Bitmex;
