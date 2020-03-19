@@ -1,3 +1,5 @@
+![Example of the app](example.png)
+
 # Notice
 
 This is my little tool for getting nicely formatted, real-time last price information from various exchanges 
